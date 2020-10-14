@@ -1,0 +1,1 @@
+# Cotton-Leaf-Disease-prediction-using-the-transfer-learning-techniques
